@@ -1,2 +1,3 @@
 # Digit-Recognition-Model-
 Implemented a two-layer neural network for hand-written digit recognition using Python and NumPy, demonstrating proficiency in deep learning concepts.
+Developed the feedforward mechanism, including the sigmoid activation function, to process input data through the network layers efficiently. Implemented the backpropagation algorithm to optimize weights and biases, showcasing a strong understanding of neural network training principles. implemented the cost function to evaluate model performance, ensuring accurate representation of the differences between predicted and actual outcomes. Utilized vectorized operations for efficient computation, showcasing expertise in optimizing code for performance in large-scale machine learning applications.
